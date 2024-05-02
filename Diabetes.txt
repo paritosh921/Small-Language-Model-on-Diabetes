@@ -1,0 +1,967 @@
+The History of Diabetes Mellitus
+Robert B. Tattersall
+ University of Nottingham, Nottingham, UK
+Textbook of Diabetes, 4th edition. Edited by R. Holt, C. Cockram,
+A. Flyvbjerg and B. Goldstein. © 2010 Blackwell Publishing.
+Keypoints
+• Polyuric diseases have been described for over 3500 years. The name
+ “ diabetes ” comes from the Greek word for a syphon; the sweet taste
+of diabetic urine was recognized at the beginning of the fi rst
+millennium, but the adjective “ mellitus ” (honeyed) was only added by
+Rollo in the late 18th century.
+• The sugar in diabetic urine was identifi ed as glucose by Chevreul in
+1815. In the 1840s, Bernard showed that glucose was normally present
+in blood, and showed that it was stored in the liver (as glycogen) for
+secretion into the bloodstream during fasting.
+• In 1889, Minkowski and von Mering reported that pancreatectomy
+caused severe diabetes in the dog. In 1893, Laguesse suggested that
+the pancreatic “ islets ” described by Langerhans in 1869 produced an
+internal secretion that regulated glucose metabolism.
+• Insulin was discovered in 1921 by Banting, Best, Macleod and Collip in
+acid - ethanol extracts of pancreas. It was fi rst used for treatment in
+January 1922.
+• Diabetes was subdivided on clinical grounds into diab è te maigre (lean
+subjects) and diab è te gras (obese) by Lancereaux in 1880, and during
+the 1930s by Falta and Himsworth into insulin - sensitive and insulin -
+ insensitive types. These classifi cations were the forerunners of the
+etiological classifi cation into type 1 (insulin - dependent) and type 2
+(non - insulin - dependent) diabetes.
+• Insulin resistance and β - cell failure, the fundamental defects of type 2
+diabetes, have been investigated by many researchers. The “ insulin
+clamp ” method devised by Andres and DeFronzo was the fi rst accurate
+technique for measuring insulin action. Maturity - onset diabetes of the
+young was described as a distinct variant of type 2 diabetes by
+Tattersall in 1974.
+• Lymphocytic infi ltration of the islets (insulitis) was described as early as
+1901 and highlighted in 1965 by Gepts who suggested that it might
+be a marker of autoimmunity. Islet cell antibodies were discovered by
+Doniach and Bottazzo in 1979
+• The primary sequence of insulin was reported in 1955 by Sanger and
+the three - dimensional structure by Hodgkin in 1969. Proinsulin was
+discovered by Steiner in 1967, and the sequence of the human insulin
+gene by Bell in 1980. Yalow and Berson invented the
+radioimmunoassay for insulin in 1956. The presence of insulin receptors
+was deduced in 1971 by Freychet, and the receptor protein was
+isolated in 1972 by Cuatrecasas.
+• The various types of diabetic retinopathy were described in the second
+half of the 19th century as were the symptoms of neuropathy.
+Albuminuria was noted as a common abnormality in patients with
+diabetes in the 19th century and a unique type of kidney disease was
+described in 1936 by Kimmelstiel and Wilson. The concept of a specifi c
+diabetic angiopathy was developed by Lundbaek in the early 1950s.
+• Milestones in insulin pharmacology have included the invention of
+delayed - action preparations in the 1930s and 1940s; synthetic human
+insulin in 1979; and in the 1990s novel insulin analogs by recombinant
+DNA technology.
+• The fi rst sulfonylurea carbutamide was introduced in 1955, followed by
+tolbutamide in 1957 and chlorpropamide in 1960. The biguanide
+phenformin became available in 1959 and metformin in 1960.
+• That improved glucose control in both type 1 and type 2 diabetes was
+benefi cial was proved by the Diabetes Control and Complications Trial
+(1993) and the UK Prospective Diabetes Study (1998).
+• Landmarks in the treatment of complications include photocoagulation
+for retinopathy fi rst described by Meyer - Schwickerath; the importance
+of blood pressure to slow the progression of nephropathy
+(demonstrated by Mogensen and Parving); the introduction of low - dose
+insulin in the treatment of diabetic ketoacidosis in the 1970s; and
+improvements in the care of pregnant women with diabetes pioneered
+by White and Pedersen. 
+Ancient t imes
+ Diseases with the cardinal features of diabetes mellitus were recognized in antiquity (Table 1.1 ). A polyuric state was described
+ in an Egyptian papyrus dating from c. 1550 bc , discovered by
+Georg Ebers (Figure 1.1 ), and a clearly recognizable description
+of what would now be called type 1 diabetes was given by Aretaeus
+of Cappadocia in the 2nd century ad (Figure 1.2 a). Aretaeus was
+the fi rst to use the term “ diabetes, ” from the Greek word for a
+syphon, “ because the fl uid does not remain in the body, but uses
+the man ’ s body as a channel whereby to leave it. ” His graphic
+account of the disease highlighted the incessant fl ow of urine,
+Diabetes is a dreadful affliction, not very frequent among
+men, being a melting down of the flesh and limbs into
+urine. The patients never stop making water and the flow is
+incessant, like the opening of aqueducts. Life is short,
+unpleasant and painful, thirst unquenchable, drinking
+excessive, and disproportionate to the large quantity of
+urine, for yet more urine is passed. One cannot stop them
+either from drinking or making water. If for a while they
+abstain from drinking, their mouths become parched and
+their bodies dry; the viscera seem scorched up, the patients
+are affected by nausea, restlessness and a burning thirst, and
+within a short time, they expire.
+In 1815, the French chemist Michel Chevreul (1786 – 1889) proved
+that the sugar in diabetic urine was glucose [4] . In the middle of
+the century, tasting the urine to make the diagnosis was superseded by chemical tests for reducing agents such as glucose as
+introduced by Trommer in 1841, Moore in 1844 and – the best
+known – Fehling in 1848. Measurement of blood glucose could
+only be done by skilled chemists but needed so much blood that
+it was rarely used in either clinical care or research. It only became
+practicable with the introduction in 1913 of a micromethod by
+the Norwegian - born physician Ivar Christian Bang (1869 – 1918)
+and it was the ability to measure glucose repeatedly which led to
+development of the glucose tolerance test between 1913 and 1915.
+ Glucose metabolism was clarifi ed by the work of Claude
+Bernard (1813 – 1878) [5] , the Frenchman whose numerous discoveries have given him a special place in the history of physiology (Figure 1.5 ). When Bernard began work in 1843, the prevailing
+theory was that sugar could only be synthesized by plants, and
+that animal metabolism broke down substances originally made
+in plants. It was also thought that the blood only contained sugar
+after meals, or in pathologic states such as diabetes. Between 1846
+and 1848, Bernard reported that glucose was present in the blood
+of normal animals, even when starved. He also found higher
+concentrations of glucose in the hepatic than in the portal vein,
+and “ enormous quantities ” of a starch - like substance in the liver
+which could be readily converted into sugar. He called this “ glycogen ” (i.e. sugar - forming) and regarded it as analogous to starch
+in plants. His hypothesis – the “ glycogenic ” theory – was that
+sugar absorbed from the intestine was converted in the liver into
+glycogen and then constantly released into the blood during
+fasting.
+ Another discovery by Bernard made a great impression in an
+era when the nervous control of bodily functions was a scientifi -
+cally fashionable concept. He found that a lesion in the fl oor of
+the fourth ventricle produced temporary hyperglycemia ( piq û re
+diabetes) [6] . This fi nding spawned a long period in which
+nervous infl uences were thought to be important causes of diabetes; indeed, one piece of “ evidence ” – cited by J.J.R. Macleod
+as late as 1914 – was that diabetes was more common among
+engine drivers than other railway workers because of the mental
+strain involved [7] .
+ In the fi rst part of the 19th century the cause of diabetes was a
+mystery, because autopsy usually did not show any specifi c
+lesions. A breakthrough came in 1889 when Oskar Minkowski
+(Figure 1.6 ) and Josef von Mering (1849 – 1908) reported that
+pancreatectomy in the dog caused severe diabetes [8] . This was
+serendipitous, because they were investigating fat metabolism; it
+is said that the laboratory technician mentioned to Minkowski
+that the dog, previously house - trained, was now incontinent of
+urine. Minkowski realized the signifi cance of the polyuria, and
+tested the dog ’ s urine.
+ Possible explanations for the role of the pancreas were that it
+removed a diabetogenic toxin, or produced an internal secretion
+that controlled carbohydrate metabolism. The concept of
+ “ internal secretions ” had been publicized in June 1889, by the
+well - known physiologist Charles - É douard Brown - S é quard
+(1817 – 1894), who claimed to have rejuvenated himself by injections of testicular extract [9] . It was given further credence in
+1891, when Murray reported that myxoedema could be cured by
+sheep thyroid extract by injection or orally.
+ In 1893, Gustave Laguesse suggested that the putative internal
+secretion of the pancreas was produced by the “ islands ” of cells
+scattered through the gland ’ s parenchyma [10] , which had been
+discovered in 1869 by the 22 - year - old Paul Langerhans (1847 –
+ 1888) (Figure 1.7 ). Langerhans had described these clusters of
+cells, having teased them out from the general pancreatic tissue,
+but had not speculated about their possible function [11] ; it was
+Laguesse who named them the “ islets of Langerhans. ” At this
+time, the glucose - lowering internal secretion of the islets was still
+hypothetical, but in 1909 the Belgian Jean de Meyer named it
+insuline (from the Latin for “ island ” ) [12] .
+ It would be wrong to give the impression that Minkowski ’ s
+experiments immediately established the pancreatic origin of diabetes. In fact, during the next two decades, it was widely agreed
+that diabetes was a heterogeneous disorder with various subtypes,
+and that its pathogenesis involved at least three organs: the brain,
+pancreas and liver [13] . The discovery by Blum in 1901 that injection of an adrenal extract caused glycosuria implicated other
+glands, and led to the “ polyglandular theory ” of Carl von Noorden
+(Vienna), who proposed that the thyroid, pancreas, adrenals and
+parathyroids controlled carbohydrate metabolism. 
+Discovery of i nsulin
+ Many attempts were made between 1889 and 1921 to isolate the
+elusive internal secretion of the pancreas. These largely failed
+because the extracts were inactive or had unacceptable side
+effects; some preparations may have had limited biologic activity,
+but this was not recognized, either because hypoglycemia was
+misinterpreted as a toxic reaction or because blood glucose was
+not measured. Those who came closest were the Berlin physician,
+Georg Zuelzer (1840 – 1949) in 1907 [23] , Ernest Scott (1877 –
+ 1966) in Chicago in 1911 [24] and Nicolas Paulesco (1869 – 1931)
+in Romania in 1920 – 1921 [25] (Figure 1.10 ).
+ The story of how insulin was discovered in Toronto in 1921 is
+well known, at least superfi cially (Figure 1.11 ). A young orthopedic surgeon, Frederick Banting, inspired after reading an article
+by the pathologist Moses Barron (1884 – 1975), wondered whether
+the antidiabetic pancreatic principle was digested by trypsin
+during extraction, and decided to prevent this loss by ligating
+the pancreatic duct, thus causing the exocrine tissue to degenerate. He approached the Professor of Physiology in Toronto,
+J.J.R. Macleod, an authority on carbohydrate metabolism, who
+poured scorn on the idea and suggested that the only likely
+outcome would be “ a negative result of great physiological
+importance. ”
+ Eventually, Macleod relented and installed Banting in a
+rundown laboratory, later leaving for Scotland and a fi shing
+holiday. A student, Charles Best, was chosen by the toss of a coin
+to help Banting. Within 6 months of this unpromising start,
+Banting and Best (referred to in Toronto academic circles as B 2
+ )
+had discovered the most important new therapy since the
+antisyphilitic agent Salvarsan. These events are described in detail
+in the excellent book by Michael Bliss [26] .
+ Their approach began with the injection of extracts of atrophied pancreas (prepared according to Macleod ’ s suggestions)
+into dogs rendered diabetic by pancreatectomy). Subsequently,
+they discovered that active extracts could be obtained from beef
+pancreas which Best obtained from the abbatoir. The extraction
+procedure (using ice - cold acid - ethanol) was greatly refi ned by
+James B. (Bert) Collip, a biochemist who was visiting Toronto on
+sabbatical leave.
+ The fi rst clinical trial of insulin (using an extract made by
+Best) took place on January 11, 1922, on 14 - year - old Leonard
+Thompson, who had been on the Allen starvation regimen since
+1919 and weighed only 30 kg (Figure 1.12 ). After the fi rst injection, his blood glucose level fell slightly, but his symptoms were
+unchanged and he developed a sterile abscess. On January 23, he
+was given another extract prepared by Collip, and this normalized
+his blood glucose by the next morning; further injections over the
+next 10 days led to marked clinical improvement and complete
+elimination of glycosuria and ketonuria. Initial clinical results in
+seven cases were published in the March 1922 issue of the
+Canadian Medical Association Journal [27] , which concluded
+dramatically that:
+1 Blood sugar can be markedly reduced, even to normal
+values;
+2 Glycosuria can be abolished;
+3 The acetone bodies can be made to disappear from the
+urine;
+4 The respiratory quotient shows evidence of increased utilization of carbohydrates;
+5 A defi nite improvement is observed in the general condition
+of these patients and, in addition, the patients themselves report
+a subjective sense of well - being and increased vigor for a period
+following the administration of these preparations.
+ The term “ insulin ” was coined by Macleod, who was unaware
+of de Meyer ’ s earlier suggestion of insuline . News of its miraculous effects spread astonishingly rapidly [28] . In 1922, there were
+only 19 references in the world literature to “ insulin ” or equivalent terms such as “ pancreatic extract ” ; by the end of 1923, there
+were 320 new reports, and a further 317 were published during
+the fi rst 6 months of 1924.
+ By October 1923, insulin was available widely throughout
+North America and Europe. International recognition followed
+rapidly for its discoverers, and the 1923 Nobel Prize for Physiology
+or Medicine was awarded jointly to Banting and Macleod. Banting
+was angered by the decision, and announced publicly that he
+would share his prize with Best, whereupon Macleod decided to
+do the same with Collip.
+The p ostinsulin e ra
+ It was confi dently anticipated that insulin would do for diabetes
+in the young what thyroid extract had done for myxoedema, but
+it soon became obvious that insulin was a very different type of
+treatment. Thyroid was given once a day by mouth and at a fi xed
+dosage. Insulin had to be injected in measured amounts which
+varied from day to day, and carried the ever - present danger of
+hypoglycemia. One often reads that insulin “ revolutionized ” the
+treatment of diabetes; it did so in the sense that it saved the lives
+of many who would otherwise have died, but its unforeseen effect
+was to transform an acute, rapidly fatal illness into a chronic
+disease with serious long - term complications. For example, only
+2% of deaths among Joslin ’ s young patients with diabetes before
+1937 were caused by kidney disease, while over 50% dying
+between 1944 and 1950 had advanced renal failure. Strategies to
+avoid and prevent the chronic complications of diabetes remain
+important scientifi c and clinical priorities today. 
+ The rest of this chapter highlights some developments
+that can be regarded as landmarks in the understanding
+and management of the disease: to some extent, this is a
+personal choice, and it is obvious from the other chapters in
+this book that the “ history ” of diabetes is being rewritten all
+the time.
+ Causes and n atural h istory of d iabetes
+ The recognition that diabetes was not a single disease was important in initiating research that has helped to unravel the causes of
+hyperglycemia.
+ The broad etiologic subdivision into type 1 (juvenile - onset, or
+insulin - dependent) and type 2 diabetes (maturity - onset, or non - insulin - dependent) stemmed ultimately from Lancereaux ’ s
+diab è te maigre and diab è te gras distinction, as well as observations
+soon after the discovery of insulin that some patients did not react
+ “ normally ” to insulin. In the 1930s, Wilhelm Falta (1875 – 1950)
+in Vienna [29] and Harold Himsworth (1905 – 93) in London [30]
+proposed that some individuals with diabetes were more sensitive
+to the glucose - lowering effects of insulin, whereas others were
+insulin - insensitive, or insulin - resistant. The former were usually
+thin and required insulin to prevent ketoacidosis, while the latter
+were older, obese and ketosis - resistant.
+ The “ insulin clamp ” technique developed in the 1970s by
+Ralph DeFronzo et al . [31] in the USA was the fi rst to measure
+rigorously the hypoglycemic action of insulin, and has led to
+countless studies of insulin resistance and its relationship to type
+2 diabetes and vascular disease. Various groups, including
+DeFronzo ’ s, have helped to clarify the role of β - cell failure in type
+2 diabetes, and how it relates to insulin resistance. Maturity - onset
+diabetes of the young (MODY) was recognized in 1974 by Robert
+Tattersall ( b. 1943) as a distinct, dominantly inherited subset of
+type 2 diabetes [32] ; since 1993, fi ve different molecular defects
+have been identifi ed in this condition. 
+The causes of the profound β - cell loss that led to the severe
+insulin defi ciency of type 1 diabetes remained a mystery for a long
+time. “ Insulitis ” , predominantly lymphocytic infi ltration of the
+islets, was noted as early as 1901 by Eugene L. Opie (1873 – 1971)
+and colleagues [33] , but because it was apparently very rare,
+found in only six of 189 cases studied by Anton Weichselbaum
+(1845 – 1920) in 1910, its importance was not appreciated. The
+possible role of insulitis in β - cell destruction was not suggested
+until 1965, by the Belgian Willy Gepts (1922 – 1991) [34] . The
+theory that type 1 diabetes results from autoimmune destruction
+of the β cells was fi rst made in 1979 by Deborah Doniach (1912 –
+ 2004) and GianFranco Bottazzo ( b. 1946) [35] . Unlike other
+autoimmune endocrine diseases where the autoantibody persists,
+islet cell antibodies (ICA) turned out to be transient and disappeared within a year of the onset of diabetes. An unexpected
+fi nding from the Barts – Windsor prospective study of the epidemiology of diabetes in childhood started by Andrew Cudworth
+(1939 – 1982) was that ICA could be detected in siblings of young
+people with diabetes up to 10 years before they developed apparently acute - onset diabetes. This long lead - in period raised the
+possibilty of an intervention to prevent continuing β - cell destruction. Cyclosporine in people with newly diagnosed type 1 diabetes
+prolongs the honeymoon period but without permanent benefi t
+once the drug is stopped [36] . Nicotinamide and small doses of
+insulin (together with many other interventions) prevent diabetes
+in the non - obese diabetic (NOD) mouse but were without effect
+in relatives of people with type 1 diabetes with high titers of ICA
+ [37,38] .
+ From 1967, when Paul Lacy (1924 – 2005) showed that it was
+possible to “ cure ” diabetes in inbred rats with an islet cell transplant, it always seemed that the problem of islet cell transplantation in humans was about to be solved. Hope was rekindled in
+2000 by a team in Edmonton, Canada. After 5 years 80% of their
+transplanted patients were producing some endogenous insulin
+but only 10% could manage without any injected insulin [39] .
+ Chronic d iabetic c omplications
+ It had been assumed that arteriosclerosis caused chronic diabetic
+complications, but this notion was challenged by two papers published in the mid - 1930s, which pointed to specifi c associations of
+diabetes with retinal and renal disease (Table 1.2 ). In 1934, Henry
+Wagener (1890 – 1961) and Russell Wilder (1885 – 1959) from the
+Mayo Clinic reported patients who had retinal hemorrhages but
+no other clinical evidence of vascular disease [40] , and concluded
+that “ The very existence of retinitis in cases in which patients have
+no other signs of vascular disease must mean that diabetes alone
+does something to injure the fi ner arterioles or venules of the
+retina, probably the latter. ”
+ In 1936, Paul Kimmelstiel (1900 – 1970) and Clifford Wilson
+(1906 – 1997) described the striking histologic fi nding of “ intercapillary glomerulosclerosis ” – large hyaline nodules in the
+glomeruli – in the kidneys of eight subjects at autopsy (Figure
+ 1.13 ) [41] . Seven of the eight patients had a known history of
+diabetes, and Kimmelstiel and Wilson noted the common features of hypertension, heavy albuminuria with “ oedema of the
+nephrotic type, ” and renal failure. In fact, this paper led to considerable confusion during the next 15 years: according to one
+writer, the “ Kimmelstiel – Wilson syndrome ” came to mean all
+things to all men [42] . Nonetheless, it was signifi cant because it
+drew attention to a specifi c diabetic renal disease.
+ Acceptance of the concept that diabetic angiopathy was specifi c
+to the disease owed much to the work of Knud Lundb æ k of
+Aarhus in Denmark (Figure 1.14 ), who published his fi ndings in
+a book in 1953 – 1954 and a paper in the Lancet in 1954 [43,44] .
+His key arguments were that long - standing diabetic vascular
+disease differed fundamentally from atherosclerosis, in that both
+sexes were equally affected and that microaneurysms, ocular
+phlebopathy and Kimmelstiel – Wilson nodules were unique to
+diabetes and usually occurred together. 
+Management of d iabetes
+ An objective observer surveying clinical diabetes during the half -
+ century after the discovery of insulin and the “ resurrection ” (a
+word used by Joslin) of young people with diabetes would have
+been dismayed by what he saw (Table 1.4 ). In particular, young
+people were dying of complications that had previously been
+assumed to be the preserve of the elderly. Two particularly
+depressing papers were published in 1947 and 1950. First, Henry
+Dolger (1909 – 1997) in New York described 20 patients who fulfi lled the then - accepted criteria for excellent diabetic control, but
+who all developed severe retinopathy after 6 – 22 years [63] ;
+among these was the fi rst patient ever to receive insulin at Mount
+Sinai Hospital, New York, who also had heavy albuminuria and
+hypertension by the age of 32. Second, Ruth Reuting reported a
+cohort of 50 young patients originally identifi ed in 1929 [64] . By
+1949, one - third had died (mostly from cardiovascular and renal
+disease) at an average age of 25 years, after only 18 years of diabetes, and the survivors showed “ ominous signs of hypertension,
+azotemia and proteinuria in signifi cant numbers. ” This had
+occurred despite the introduction of more versatile insulin preparations (see below); the situation was so hopeless that it inaugurated 20 years of treatment with “ heroic ” measures such as
+adrenalectomy and hypophysectomy
+These and other studies raised questions about whether lowering blood glucose levels to normal could prevent diabetic complications or reverse them once they had appeared. The hypothesis
+remained untestable for four more decades, until the means to
+achieve tight glycemic control and measure it had been devised.
+Insulin
+ For the fi rst decade after its discovery, insulin was available only
+in its soluble (regular) formulation, whose short - action profi le
+required multiple daily injections. The fi rst delayed - action preparation, protamine insulinate, was introduced in 1936 by Hans
+Christian Hagedorn in Denmark (Figure 1.17 ) [65] . This was
+followed by protamine zinc insulin later the same year, then globin insulin in 1939, NPH (neutral protamine Hagedorn, or
+isophane) in 1946, and the lente series in 1952. Long - acting insulins were welcomed by diabetes specialists and patients, but their
+use as a single daily injection probably produced worse glycemic
+control than three or four injections of soluble insulin. Indeed,
+delayed - action preparations were initially condemned by some
+diabetes specialists, such as Russell Wilder of the Mayo Clinic,
+because the patient could slip without apparent warning into
+hypoglycemia.
+ The number and variety of insulin preparations proliferated,
+but the main advances were in methods to produce highly purifi ed preparations from porcine or bovine pancreas, which
+remained the source for therapeutic insulin until the early 1980s.
+Insulin was the fi rst therapeutic protein to be produced by
+recombinant DNA technology, initially by David Goeddel ( b.
+1951), who expressed synthetic genes encoding the A - and
+B - chains separately in Escherichia coli and then combined these
+chemically to produce human - sequence insulin [66] . From there,
+genetic engineering has been used to produce “ designer ” insulins
+such as the fast - acting insulin analogs lispro and aspart and the
+ “ peakless ” basal insulins such as glargine and detemir. How much
+these will improve glycemic control in the generality of people
+with diabetes is debatable; weekend golfers do not become champions when given expensive clubs!
+ Most people with diabetes still inject insulin subcutaneously.
+From the patient ’ s viewpoint, major milestones were the replacement of glass and steel syringes by disposable plastic syringes with
+fi ne - gauge needles, and then by “ pen ” injection devices invented
+by John Ireland (1933 – 1988) in Glasgow, Scotland, in 1981 [67] .
+Portable insulin infusion pumps were developed by John Pickup
+( b. 1947) and colleagues in London during the late 1970s [68] ,
+and have become progressively smaller and more sophisticated.
+Patients and manufacturers hope that there will eventually be an
+insulin that can be given without injection. The fi rst inhaled
+insulin was marketed in 2006 but withdrawn a year later because
+of lack of demand and concerns about safety [69] .
+Oral h ypoglycemic a gents
+ The fi rst orally active glucose - lowering drug, synthalin, a guanidine derivative, was developed by Frank and colleagues in Breslau
+in 1926 [70] , but had to be withdrawn because of toxicity (a recurrent problem for oral hypoglycemic drugs). The sulfonylureas
+originated from the work of Auguste Loubati è res (1912 – 1977) in
+France during the early 1940s on the glucose - lowering action of a
+sulfonamide derivative, 2254RP. Loubati è res made the crucial
+observations that proved that these drugs act as insulin secretagogues and that they were effective in intact, but not in pancreatectomized, animals [71] . In 1955 carbutamide was the fi rst
+sulfonylurea to enter clinical practice and tolbutamide followed
+in 1957. Phenformin, the fi rst biguanide, was introduced in 1959
+following research into the metabolic effects of guanidine derivatives which had built on Frank ’ s initial studies [72] . Metformin
+appeared on the European market in 1960 but was not marketed
+in the USA until 1994. Troglitazone, the fi rst of a new class of
+antidiabetic drugs, the glitazones, was also marketed in 1994 but
+withdrawn because of liver damage. It was followed by rosiglitazone and pioglitazone. Another new class of drugs, acting on the
+incretin system, were introduced in 2005. These are either glucagon - like peptide 1 (GLP - 1) agonists (such as exenatide) or inhibitors of the enzyme dipeptidylpeptidase - 4 (DPP - 4) which breaks
+down GLP - 1 (gliptins).
+ Tolbutamide, phenformin and insulin were compared in the
+treatment of maturity - onset diabetes in the fi rst randomized controlled trial, the University Group Diabetes Program [73 – 75] .
+This much - criticized study concluded that the death rate was
+higher for both oral agents than for placebo, and that insulin
+(whether given in a fi xed or variable dose) was no better than
+placebo [75] . These fi ndings were interpreted by some as suggesting that treatment of maturity - onset diabetes was a waste of time
+ – a myth that was only laid fi nally to rest by the UK Prospective
+Diabetes Study.
+Glucose c ontrol and t reatment t argets
+ During the 1920s, opinion leaders advocated normalizing blood
+glucose in young patients with diabetes, the rationale being to
+ “ rest ” the pancreas, in the hope that it might regenerate. The only
+way of monitoring diabetic control was by testing the urine for
+glucose, and attempts to keep the urine free from sugar inevitably
+resulted in severe hypoglycemia and often psychologic damage.
+This led to the so - called “ free diet ” movement – linked particularly with Adolf Lichtenstein (Stockholm) and Edward Tolstoi
+(New York) – which encouraged patients to eat whatever they
+liked and not to worry about glycosuria, however heavy. Tolstoi ’ s
+view [76] was that a life saved by insulin should be worth living,
+and that patients should be able to forget that they had diabetes
+after each morning ’ s injection; it seems likely that many physicians followed this policy for the next 40 years. 
+
+
+Major b urdens
+ The burden of any disease, including diabetes, can be described
+by its health - related impacts: the morbidity and mortality caused,
+and the social and economic costs to individuals, families, communities and national economies (Box 5.1 ). Evaluation of
+resources utilized or lost, be they human, social, monetary or
+infrastructural, and placing objective “ values ” on them may be
+inherently partial to the perspective taken. The term “ value ” may
+be used to describe the measured and/or perceived net worth of
+resources consumed or lost because of illness and/or infi rmity
+which is the mode used in this chapter. Economists use this term
+to express the net benefi t derived from an investment in health
+care in proportion to the amount of resources used [43] .
+Acute and c hronic d isease c omplications
+ The patterns of major health - related burdens of diabetes vary by
+the type of disease. T2DM accounts for 90 – 95% of all cases
+worldwide. Both T1DM and T2DM, the two most common
+forms, may be associated with acute and chronic metabolic consequences, but the frequency of events varies according to the
+underlying pathophysiology and level of glycemic control.
+ Acute fl uctuations in serum glucose may rapidly spiral into
+emergency situations, with potentially fatal repercussions if
+untreated. Episodes of severe acute hyperglycemia (e.g. diabetic
+ketoacidosis [DKA] and hyperosmolar hyperglycemic syndrome) 
+or, conversely, severe hypoglycemia, most often require immediate medical management. Longer term follow - up is then intended
+to promote better blood glucose regulation and avoidance
+of precipitants of diabetic emergencies (e.g. infection, non -
+compliance with treatments, missing meals, alcohol abuse). Apart
+from atypical variants such as ketosis - prone T2DM in African
+subjects [11] , the vast majority of acute complications occur in
+patients with T1DM, while approximately 10 – 12% occur in subjects with T2DM. When treated properly, the mortality from
+acute hyperglycemic episodes such as DKA is extremely low (e.g.
+DKA mortality in Taiwan, USA and Denmark were estimated to
+occur in 0.67 – 4.0% of cases) [44,45] . In contrast, in some African
+countries, mortality from DKA can be as high as 25 – 33% [46] ,
+although the incidence of these complications from LMIC settings is limited [47] . Individual patient (e.g. age, additional co -
+ morbidities) and resource (e.g. hospital facilities, experience of
+staff) characteristics may also modify the outcomes. In underresourced settings for example, complex, cumulative and interconnected barriers (poor accessibility, inadequate therapeutic
+instruments and medication, and insuffi cient numbers of trained
+staff) result in poor glycemic control and higher risk of mortality
+ [48] . As such, early life mortality in patients with T1DM in low -
+ resource settings is commonplace. The post - diagnosis life expectancy in some regions of Africa is just 1 year [49] .
+ Apart from glucose dysregulation, both T1DM and T2DM are
+associated with damaging effects on tissues, with eventual progression to devastating complications. Diabetes increases the risk
+of macrovascular diseases (cardiovascular diseases [CVD], which
+comprise coronary heart disease and cerebrovascular disease or
+ “ stroke, ” and peripheral vascular disease [PVD]), microvascular
+diseases (retinopathy and nephropathy), neuropathies, and the
+consequences that stem from these (e.g. congestive heart failure,
+diabetic foot). These complications are associated with considerable morbidity, reduced quality of life, disability, premature mortality and high economic costs
+ In addition, T2DM is associated with the “ metabolic syndrome, ” a collection of cardiovascular risk factors (abdominal
+obesity, hyperinsulinemia, hypertension, dyslipidemia, proinfl ammatory and procoagulant states). It is believed that these
+biochemical and infl ammatory derangements are intimately
+linked, possibly by a central mediating factor. In Latin America,
+it is estimated that 53 – 69% of people with diabetes have abnormal serum lipid subfractions, and 34 – 67% have hypertension
+ [17] . As such, these factors increase the likelihood of developing
+additional risks, and with each added risk, predispose one to an
+exponentially increasing risk of atherosclerotic vascular disease
+events and mortality [50] .
+ Moreover, T2DM has a distinctive association with coronary
+heart disease (CHD). Those with diabetes have a two - to fourfold
+higher risk of developing CHD than people without diabetes [51] .
+More signifi cantly, however, the age - and sex - adjusted cardiovascular mortality risk in patients with diabetes is equivalent to that
+of individuals without diabetes who have had a previous myocardial infarction (MI) [50,52,53] . Precursors common to both
+T2DM and CVD (insulin resistance, visceral adiposity and excess
+infl ammation) [54 – 58] , and a complex mix of mechanistic processes such as oxidative stress, enhanced atherogenecity of cholesterol particles, abnormal vascular reactivity, augmented
+hemostatic activation and renal dysfunction, cumulatively confer
+this elevated risk of CHD [59] . As such, simply controlling
+glucose has not been found to reduce CVD events and mortality
+in large randomized controlled trials at least in the short term
+ [60 – 62] . The implications therefore are that individualized comprehensive multifactorial risk management, involving the treatment of all co - morbidities, has been advocated for people with
+T2DM [63,64] , adding to the burdens placed on patients, providers and health systems.
+ Diabetes also increases the risk of renal dysfunction. In Africa,
+it is estimated that within 5 – 10 years following diagnosis, 32 – 57%
+of people with diabetes will have developed microalbuminuria
+ [48,65] . Also, diabetes is the primary cause in approximately 45%
+of patients with end - stage renal disease (ESRD) requiring dialysis
+or transplantation in the USA [66,67] . Meanwhile, approximately
+one in four persons with diabetes have some visual impairment,
+and 5% of all cases of blindness globally are caused by diabetes
+ [68] . Particularly in the case of retinopathy and nephropathy,
+duration of disease, age, glycemic control and blood pressure
+control have all been found to be prominent modifying factors
+of disease onset, progression and outcomes.
+ Neuropathies are also common consequences of diabetes.
+One - third of Sri Lankan people with diabetes surveyed had lower
+extremity sensory loss putting them at risk of ulceration [69] ,
+while a similar proportion of people with diabetes in African
+countries were found to have either neuropathy or compromised
+peripheral vascular circulation [70,71] . The combination of neuropathy, increased susceptibility to infection, poor wound healing
+and poor distal circulation increases the risk of lower extremity
+amputation 15 - to 40 - fold [67,72] .
+ The most signifi cant repercussion of the asymptomatic early
+natural history of the diabetes and low community awareness is 
+that subclinical disease results in progressive tissue injury.
+Microvascular and macrovascular complications cause morbidity, greater health - seeking and increased mortality risk in all
+regions of the world [23,27,73] .
+Health u tilization p atterns
+ Health seeking and health utilization behaviors are infl uenced by
+a number of individual, provider and system level factors. In the
+case of diabetes, ill health and morbidity as well as preventative
+care motives result in incrementally more health service utilization. In Costa Rica, for example, people with diabetes made 55%
+more medical visits than those without diabetes, and German
+patients with diabetes averaged 31 yearly consultations with
+general practitioners (GPs) and/or specialists [74,75] . In Sweden
+and Italy, approximately half of diabetes - related consultations
+were at hospital outpatient departments or dedicated diabetes
+centers, respectively, and the remainder were with GPs [76,77] .
+In Latin America, diabetes accounts for an estimated 35 million
+medical visits annually [74] .
+ Various studies have shown that having diabetes doubles one ’ s
+risk of hospitalization compared to not having diabetes, and this
+risk is amplifi ed by the development of diabetes - related complications. The presence of poor peripheral circulation increases the
+risk of hospitalization by 70%, while CVD increases this risk by
+310% [67] . The Cost of Diabetes in Europe Type II Study (CODE -
+ 2) reported 13% of people with T2DM were hospitalized (with
+an average stay of 23 days) over the 6 - month study follow - up,
+while Germany ’ s Cost of Diabetes Mellitus (CoDiM) study
+reported that 28.8% of people with diabetes had at least one
+hospital admission in 2001 [75] . Although studies from most
+regions of the world report late - stage macrovascular or microvascular complications as the leading cause of diabetes - related
+hospitalizations, lower income settings such as Ethiopia confront
+a greater proportion (almost two - thirds) of admissions in the
+form of acute episodes of dysglycemia.
+ Health care infrastructure and fi nancing have strong impacts
+on health seeking and utilization. In India, estimates suggest that
+85 – 95% of all health care costs are borne by individuals and their
+families from household income [78 – 81] . In Latin America, 40 –
+ 60% of diabetes expenses are derived from out - of - pocket payments. A survey in Jamaica showed that 57% of the sample
+reported fi nancial diffi culties as a result of illness, and of these,
+half disclosed that they had avoided therapy because of economic
+constraints [74] . Financial limitations to accessing treatment are
+not confi ned to LMICs, as illustrated by 19% of elderly Americans
+revealing curtailed purchases of diabetes medications as a result
+of costs [82,83] .
+ When one considers that the average number of medications
+used by people with diabetes in India is 3.5 [79] , the cost implications are substantial. These drugs include antihypertensives,
+lipid - lowering, antidepressant medications and aspirin in addition to glucose - lowering drugs). The use of oral hypoglycemics
+increases health expenditure by 40% compared to the general
+population, while regular insulin use is a further twofold greater
+expense. As such, data from Germany show that use of insulin
+with or without oral agents increases total costs 3.1 – 3.4 times
+ [75,84] .
+ Increased health seeking and utilization in people with diabetes
+and associated complications result in greater medical costs
+incurred, compared to the general non - diabetic population.
+Disability
+ Aside from the medical or biologic dysfunction caused by disease,
+there are implications of ill health for individual and interactive
+functioning in society. This concept of “ disability ” is distinctive
+from simple biomedical models of disease and signifi es that psychosocial illness or physical deviations from generally accepted
+norms of anatomical structure or physiologic function may
+impair one ’ s ability to perform domestic and occupational activities, and assume societal roles. As a result, diabetes may inhibit
+one ’ s general utility and ability to integrate fully in society.
+ Diabetes can lead to disability through a variety of ways.
+Excluding the medical aspects of diabetes - related complications
+that directly restrict bodily function, diabetes may be considered
+a “ hidden ” disability, whereby the individual concerned is hampered from routine activities, but displays no physical manifestation of this illness. For example, children with diabetes may be
+unable to participate in all activities their contemporaries are
+engaged in and may suffer wrongful discrimination. Adults in the
+workplace may have lower work performance by virtue of any
+number of symptoms (impaired fi ne motor skills and concentration, grogginess, urinary frequency) [85] or even decline in cognitive functioning [86 – 88] . Those requiring insulin may be limited
+additionally by highly structured activities of daily living (the
+requirement of meticulous glucose monitoring, insulin administration, timed eating), recurrent hospitalizations, hyperglycemic
+and hypoglycemic episodes, and by regular preventative or therapeutic medical visits.
+ Indeed, the physical manifestations of diabetes become more
+signifi cant with the development of complications. As such,
+visual impairment, restricted mobility (from shortness of breath,
+chest pain or even amputation) and general ill health (ranging
+from increased susceptibility to infection all the way to uremia
+related to irreversible renal dysfunction) are all considerable
+impediments to productive work and engagement in socially
+valuable activity. Cross - sectional studies in the USA have demonstrated that elevated glycated haemoglobin (HbA 1c ) is associated with a higher likelihood of missing work, greater hours
+absent [89] and reduced at - work effi ciency [85] .
+ Depending on the health status of the individual and severity
+of disease, disability can be temporary or permanent. There is
+limited country - specifi c data on the permanent disability resulting from diabetes, although diabetes is the leading cause of adult -
+ onset blindness, non - traumatic amputations and irreversible
+kidney failure worldwide [22] . Data from Chile showed that 8%
+of people with diabetes had some form of permanent disability
+ [74] .
+ Less tangible, but no less severe, are the psychosocial burdens
+that may accompany diabetes and affect functioning [90,91] . In
+a health maintenance organization cohort of 1642 people with 
+diabetes, 12% were unemployed, 7% of those employed had
+missed more than 5 working days in the previous month and 4%
+of employed subjects reported diffi culties with completing work
+tasks. Of those with any form of work disability inducing absence
+and/or poor productivity, over half had minor and/or major signs
+and symptoms of depression [92] .
+ The complexity of disability as a limitation of individual and
+societal function is in quantifying this shortcoming. There are
+several methods that have been used which factor in age, education and occupation, but most have at least some imperfection
+because of the necessity of making judgments about the value of
+activities. This is especially diffi cult where there are cultural and
+ideological dissimilarities between the evaluator and the population being appraised.
+Mortality
+ Ascertaining the global mortality attributable to diabetes is no
+easy task. Most mortality statistics rely on documented causes of
+death and do not acknowledge the roles of glucose dysregulation
+in underlying mortality associated with CVD and renal diseases.
+Danaei et al. [29] have therefore argued that evaluating actual
+diabetes - related mortality should take into account that
+diabetes contributes to 21% of CHD and 13% of stroke mortality
+worldwide. The World Health Organization (WHO) incorporated these sentiments into calculating that diabetes is the fi fth
+leading cause of death worldwide in 2000 [93] . The International
+Diabetes Federation ’ s most recent Diabetes Atlas approximates
+that diabetes is responsible for 6.8% of total global mortality (4
+million deaths) annually [22,94] . In addition, the mortality
+attributable to diabetes would be even higher if deaths related to
+IGT were also included. This diabetes precursor independently
+increases the risk of mortality, and has a prevalence of 15 – 40%
+in adults [6] .
+ Altogether, diabetes is associated with premature mortality,
+shortening life expectancy by approximately 7 – 15 years [95,96] .
+In developed countries, CVDs account for an overwhelming
+65 – 75% of deaths in people with diabetes [97,98] . In low - resource
+settings, infections and acute metabolic emergencies are still the
+prevailing causes of death in people with diabetes [11,12,65,99] .
+ESRD also carries inexorably high mortality, mainly because of
+inaccessibility (physical and fi nancial) of treatment (dialysis and/
+or transplantation) in most LMICs [11] . As a result, globally,
+CVD and nephropathy are the most prominent fatal endpoints,
+and occurrence is analogous to duration of disease in that early
+life survival and long - standing diabetes increase susceptibility to
+succumbing from these illnesses [27] .
+ There is regional variation in the global distribution of diabetes - related mortality. Estimates for the percentages of deaths
+attributable to diabetes by region are shown in Table 5.1 . Although
+the proportion of deaths in LMICs is lower than in more developed countries, the absolute numbers of deaths, by virtue of
+larger population size, outnumber those in economically developed countries. South Asia is currently reported to have the
+highest absolute number of diabetes - related deaths annually
+ [100] . Also, there is a noticeably greater proportion of deaths in
+ younger age groups in LMICs, resulting in higher loss of life years,
+and affecting the economically active subpopulations in these
+countries.
+ It must be mentioned that in Africa, the HIV/AIDS epidemic
+has already altered patterns of mortality and life expectancy and
+is projected to modify these further. Irrespective of the fact that
+sub - Saharan Africa accounts for 72% of HIV - related deaths
+worldwide [101] , projections based on demographic trends alone
+suggest that the prevalence of diabetes will continue to grow in
+this region. Widespread use of antiretroviral therapy will also
+directly (in the form of pancreatic dysfunction associated with
+therapy) and indirectly (increasing longevity of life) affect diabetes prevalence. The scarcity of data emanating from this continent
+does not allow a greater comprehension of the relative impacts
+of these forces versus contemporary sociodemographic and epidemiologic transitions.
+Economic and s ocial i mplications
+ The prototypical chronic nature of diabetes requires empowered
+self - and clinician - guided management for the duration between
+diagnosis and death. Forestalling complications and premature
+mortality is the central theme underlying glucose control and
+preventative management. Together, the care and serious consequences of diabetes are burdensome and costly. Quantifying the
+costs of diabetes from the perspectives of diabetes patients as well
+as national resource use and losses are critical towards informing
+appropriate health care planning, resource allocation and
+response strategies.
+ Approaches used to estimate economic costs of disease vary,
+not only by the perspective taken, but also by methodology
+applied, data sources used, year of estimation, as well as purchasing power and clinical practice patterns in different settings
+(Table 5.2 ). Needless to say, between - country comparisons are
+even more problematic where issues emerge regarding uncertainty of incidence and prevalence estimates, and standardization
+of measures and criteria. General principles and concepts of estimating cost are described [1,67,102,103] .
+ Types of c osts
+ Direct c osts ( i nputs)
+ These include costs of treatment and care of the disease, broadly
+encompassing all outpatient consultations, inpatient care, diagnostic investigations, therapeutic procedures, pharmacotherapy,
+paramedical care (e.g. home nursing, physiotherapy), patient
+time, transportation and rehabilitation.
+ Indirect c osts ( l ost o utput)
+ These costs represent the present and future value of economic
+productivity lost by society on account of temporary or permanent disability, excess morbidity and premature mortality from
+disease; they are typically calculated by estimating foregone
+income by investigating the cumulative impacts of absenteeism,
+employment status and income, for both the individual and
+caregiver(s).
+ Intangible c osts
+ Costs are associated with the psychosocial impacts (e.g. stress,
+depression, emotional problems) and altered quality of life from
+an illness; they may include diminished family role, informal care
+and foregone income by family members; these costs are typically
+diffi cult to estimate because of relative lack of standardized
+methods.
+ Cost a ppraisal m ethods
+ Cost - o f - i llness m ethod
+ This is the most widely used approach to describe the direct and
+ indirect costs of disease to society and is conducted by exploring
+costs in a group of selected persons either over a defi ned fi nite
+period (e.g. 1 year) or through the natural progression of the
+disease.
+ Human c apital a pproach
+ This is a method of estimating indirect costs of disease, with an
+emphasis on foregone earnings and employment; it is criticized
+as a tool because of the tendency for overestimating future values,
+accepting wage disparities and disregarding socially valuable
+activities such as housekeeping and volunteer work.
+ Friction c ost a pproach
+ This approach is a more conservative measure of indirect costs
+that considers lost productivity as fi nite where restoration of productivity (return to work or replacement of worker) occurs
+within a timeframe and therefore limits production losses; it does,
+however, require detailed data.
+ “ Top - d own ” a pproach
+ This calculatates costs from national databases and/or estimates,
+partitioning costs of different illnesses according to diagnoses; it
+requires accurate data entry, especially when indirect costs are
+being investigated but avoids the risk of double counting.
+ “ Bottom - u p ” a pproach
+ This follows the trail of illness - related costs of a defi ned subpopulation with the illness, over a fi nite period.
+ Studies that have examined costs of diabetes vary in their estimates of the excess costs generated through resource consumption. The major drivers of direct health care costs include health
+service utilization (outpatient or ambulatory care comprising
+health practitioner consultations as well as inpatient care); medication usage; diagnostic tests; self glucose monitoring and therapeutic medical devices; and therapeutic procedures. In more
+developed settings, auxiliary services such as paramedical care
+(dietitians, physiotherapists, occupational therapists and home
+nursing) and preventative checks (foot care, urine and eye testing)
+may contribute to costs. The relative contributions of these cost
+drivers in various regions of the world are shown in Table 5.3 .
+Themes that surface from these studies affi rm the high costs of
+complications and associated hospitalization in developed countries, but also point to higher relative costs of purchasing medications in LMICs. Indeed, the supplemental costs of drugs for
+co - morbid CVD risk management are also pronounced.
+ Demographic and clinical characteristics have profound infl uences on costs. In Germany, compared to the diabetes - free population of the same age, younger people with diabetes (under 40
+years of age) had greater incremental costs (4.1 times) than the
+people in the elderly age group (only 1.5 times higher) [75] . The
+types of diabetes have different costs. T1DM accounts for 5.7%
+of people with diabetes in the USA; medical costs of US$10.5
+billion (bn) and indirect losses amount to US$4.4 bn, totaling
+US$14.9 bn. This is comparatively much lower than the
+US$159.5 bn that cumulatively account for T2DM care and lost
+productivity, but the cost burden per case is greater for T1DM
+ [104] . It has been postulated that more consultations and faster
+progression to retinopathy and nephropathy are the main drivers
+of cost and mortality risk in those with T1DM [27,76] . In T2DM,
+coexistence of hypertension and dyslipidemia have relatively
+more signifi cant roles in mediating risk, outcomes and associated
+costs.
+ The presence of diabetes - related complications greatly increases
+both the magnitude and duration of resource consumption. In
+particular, CVD and nephropathy are associated with the highest
+health care costs in most regions of the world. In the USA,
+medical costs increase by a factor of 1.5 when early CVD manifestations develop, and escalate to 3.6 times with the occurrence
+of a serious CVD event. Similarly, early renal dysfunction is the
+basis for 65% more costs, and the onset of ESRD signifi es a 771%
+increase in costs [105 – 107] . Brandle et al . estimated that 1 - year
+direct costs of suffering and surviving a major vascular event in
+the USA totaled US$24 500 for a myocardial infarction, US$26 600
+for a stroke and US$37 600 for an amputation [130] . The Diabetes
+Health Economics Study Group estimated that complications
+contribute up to 60% of all direct costs, and 80 – 90% of indirect
+losses from absenteeism and lost productivity [108] . A rudimentary, but possibly practical fi nding by Gilmer et al. [109] reports
+that for every 1% (11 mmol/mol) increase in HbA 1c over 7% ( > 53
+mmol/mol), there is a corresponding 10% increase in costs.
+ National perspectives reveal large differences in the health care
+expenditure in developed and developing country settings.
+Although the metrics used are different, per capita expenditure
+on health in Tanzania (US$4) and South Africa (US$158), as well
+as annual direct costs of diabetes from Argentina (US$330),
+France (US$675) and Denmark (US$3535) demonstrate sizeable
+between - country disparities [110] . Industrialized countries are
+also advantaged in the organization of health care infrastructure,
+as well as the fi nancing of the system. For example, nationalized
+insurance and social security schemes in France and Germany
+cover 83.4% and 86% of these populations, respectively, which
+ensures high accessibility to care for citizens [75,84] .
+ The imbalance between resource expenditure and needs is
+further exemplifi ed by estimates that only 20% of global expenditure occurs in the regions where 80% of people with diabetes live
+ [111] , demonstrating that Julian Tudor Hart ’ s [112] “ inverse care
+law ” is very relevant to global diabetes burden. This states that
+ “ the availability of good medical care tends to vary inversely with
+the need for it in the population served ” . As a result of inadequate
+public spending on health in LMICs (e.g. in India, only 2% of the
+government ’ s annual budget is devoted to health care), sizeable
+proportions of household income are spent on health care costs.
+In Africa, 40% of people are said to earn less than US$1 per day
+( ∼ $300 per annum) [11,12] , and in countries such as Sudan,
+almost two - thirds of family incomes are required to pay for the
+care of one child with diabetes [113] . In Mozambique, less than
+one - fi fth of all health facilities have the wherewithal to offer blood
+glucose and urinary ketone measurement [49] . The other end of 
+the spectrum comprise developed countries such as Germany and
+the USA, which spend 31.3 billion and US$116 billion annually
+on direct costs of diabetes, respectively. Of the estimated US$2.2
+trillion in health care expenditures in the USA in 2007, one out
+of every US$7 spent was for diabetes [114] . These expenses are
+partially related to differences in pricing and prescription, but are
+also linked to the high costs of new diagnostic and therapeutic
+options (e.g. while annual cost of treating a patient with maximal
+daily doses of metformin is US$46, the equivalent costs of using
+thiazolidinediones are US$710 – 980) [115] .
+ Additional considerations with regard to national economic
+impact concern the distribution of diabetes burden within populations. In low and middle income countries, diabetes and its
+complications disproportionately affect the economically productive age range (15 – 69 years), while in mature market economies, the disease affects the older ( ≥ 65 years), disadvantaged and
+ethnic minority subpopulations. The implications emanating
+from these trends are that economic development in transitioning countries may be subdued because of loss of unrealized productivity, while direct health costs for the aging and uninsured
+populations in developed countries will continue to escalate [1] .
+ In LMICs, the lowest income groups bear the greatest burdens,
+paying a larger proportion of their household incomes towards
+diabetes care (34% and 27% for the urban and rural poor, respectively, vs 4.8% and 5.0% for the high income urban and rural
+groups in India, respectively) [116] . Year - on - year increases in
+this proportion are greater in impoverished groups, and worsen
+with duration of diabetes, presence of complications, hospitalization, surgical therapy and glycemic control requiring insulin
+ [81,116,117] .
+ Furthermore, LMICs contain large and growing populations
+of people with pre - diabetes, as well as groups of people unaware
+that they have an asymptomatic metabolic disorder. Pre - diabetes
+is independently associated with the development of complications and increased specialist consultations, adding up to at least
+US$443 in supplementary expenses per person in the USA [118] .
+For individuals with undiagnosed diabetes, proxy measures of
+health service utilization suggest that annual costs are approximately US$2864, and may escalate depending on the severity of
+complications that have developed by the time of recognition and
+formal diagnosis [119] .
+ Augmented expenditures associated with complications further
+perpetuate destitution and socioeconomic disadvantage (i.e.
+opportunity costs of health care expenses are often endured by
+foregoing children ’ s education). Meanwhile, hardship amplifi es
+vulnerability to disease. The Cost of Diabetes in India (CODI)
+ [43] and Bangalore Urban District (BUD) [120,121] diabetes
+studies showed a later age at diagnosis of diabetes and occurrence
+of disabling complications were associated with lack of awareness,
+and being unemployed and less educated (e.g. a 7 - year difference
+in age of diagnosis was demonstrated between illiterate people
+and those with college education). Similar observations substantiate a bidirectional link between poor health and poverty (Figure 
+Broadly speaking, diabetes results in roughly 1.5 – 5 times
+greater health care expenditure than the general population,
+depending on the context and the cost appraisal methodology
+employed [75,77,80,84,103,114] . In addition, it is important to
+note that the complex overlaps and interconnections between the
+underlying pathophysiology of T2DM and associated co - morbidities of the broader metabolic syndrome may alter the scope of
+costs. As such, depending on the viewpoint and chosen values,
+resource use attributable to diabetes alone may in fact underestimate the broader range of costs associated with diabetes - related
+illnesses as a group. Also, undiagnosed diabetes may not be
+described as a contributor to morbidity, mortality and resource
+use, suggesting that we may be underestimating the true burden
+of this disease. This is particularly relevant in regions of the world
+where there are few or no representative data regarding disease
+prevalence and causes of death. Finally, the value placed on the
+opportunity cost of diabetes - related infi rmity has not been widely
+quantifi ed or even qualitatively described.
+Changing t rends in c osts
+ The global burdens associated with diabetes have been growing
+rapidly, and are projected to escalate even further in the future.
+The hypothesized explanations for this trend of increasing burden
+include, and are not limited to, the rising prevalence of diabetes
+and pre - diabetes worldwide; aging and longevity accompanied by
+costly co - morbidities; lowered diagnostic thresholds; more attentive detection of cases; availability of newer, more costly treat
+ment methods on the basis of industry research and development;
+and changes in clinical management, especially growth in use
+of self glucose monitoring and medical devices, new therapeutic
+drugs and increasing demand for paramedical services. While
+it is evident that these latter reasons are more relevant in HICs,
+the continued epidemiologic transitions will no doubt affect
+LMICs too. It is unfortunate that scarcity of resources and
+inadequate access in these settings will result in greater disability
+and mortality, perpetuating the obstacles to socioeconomic
+development.
+Gaps and f uture d irections
+ Diabetes imposes serious health, social and economic burdens
+worldwide. Quantitative calculations suggest that direct and indirect costs of diabetes worldwide cumulatively total US$376 bn in
+2010 [111] . Almost half of all global expenditure occurred in the
+USA, which is home to only 8% of those affected by diabetes
+worldwide. Given the disparities in burdens, access and expenditures described previously, more widespread and reliable data are
+a fi rst step towards greater equity [122] . In addition, studies are
+needed that include both long - understood and emerging diabetes
+complications, such as cognitive function, in the models, to create
+better estimates of diabetes - attributable mortality, morbidity and
+cost. Assessing burdens using reliable consistent methods will aid
+our comprehension of the complex mix of programmed, predisposing and modifi able factors associated with diabetes, and lays
+a foundation for policy development and advocacy for greater
+global consciousness.
+ Despite varied estimates of expenditure, the pattern is consistent: people with diabetes experience greater symptoms, morbidity, co - morbidities and mortality than those without diabetes;
+they have diminished functional capacity and psychosocial illness;
+and incur greater costs for health care, self - care and losses in
+earning potential and societal role. While reductions in quality of
+life are less numerically evident, they are no less distressing.
+Needless to say, intervening before diabetes onset may hold great
+benefi t in reducing global burdens; however, although there is
+evidence from large trials demonstrating that prevention can
+forestall conversion from pre - diabetes to diabetes, widespread
+translation of these fi ndings is hampered by multiple levels of
+barriers (political, social, cultural, behavioral and economic
+factors).
+ In the future, preparation for the increasing diabetes burden
+requires progress in wider collection of reliable data (especially
+assuaging the scarcity from low and middle income countries
+regarding diabetes - related mortality, complications, disability
+and costs), and a greater emphasis on cost - effectiveness studies
+which may inform better resource allocation. On the shoulders
+of compelling evidence, greater investment and political will are
+required to overcome low accessibility and awareness, as well as
+to translate the evidence into practical real - life implementation
+of proven and effective prevention strategies [123] . 
+
+Introduction
+ The German anatomy student Paul Langerhans fi rst described in
+1869 the “ islands of clear cells ” distributed throughout the pancreas [1] but he did not realize the physiologic signifi cance of
+these cell clusters, which are today known as islets of Langerhans.
+We now know that islets are the endocrine compartment of the
+pancreas, comprising around 2 – 3% of the total pancreatic
+volume. Islets are approximately spherical (Figure 6.1 a), with an
+average diameter of 100 – 200 μ m, and a healthy human pancreas
+may contain up to a million individual islets, each having its own
+complex anatomy, blood supply and innervation.
+Islet s tructure and f unction
+Islet a natomy
+ A typical mammalian islet comprises several thousand endocrine
+cells including the insulin - expressing β - cells ( ∼ 60% of adult
+human islet cells), glucagon - expressing α - cells (20 – 30%),
+somatostatin - expressing δ - cells ( ∼ 10%), pancreatic polypeptide -
+ expressing cells ( < 5%), and ghrelin - expressing cells ( ∼ 1%). The
+anatomic arrangement of islet cells varies between species. In
+rodents, the majority β - cell population forms a central core surrounded by a mantle of α - cells and δ - cells (Figure 6.1 a), but
+human islets show less well - defi ned organization with α - cells and
+δ - cells also being located throughout the islet (Figure 6.1 b) [2] .
+ Islets are highly vascularized, and receive up to 15% of the
+pancreatic blood supply despite accounting for only 2 – 3% of the
+total pancreatic mass. Each islet is served by an arteriolar blood
+supply that penetrates the mantle to form a capillary bed in the
+islet core. Earlier studies using vascular casts of rodent islets suggested that the major route of blood fl ow through an islet was
+from the inner β - cells to the outer α and δ - cells [3] , but more
+recent studies using optical imaging of fl uorescent markers to
+follow islet blood fl ow in vivo [4] reveal more complex patterns
+of both inner - to - outer and top - to - bottom blood fl ow through
+the rodent islet.
+ Islets are well supplied by autonomic nerve fi bers and terminals containing the classic neurotransmitters acetylcholine and
+norepinephrine, along with a variety of biologically active neuropeptides [5] . Vasoactive intestinal polypeptide (VIP) and pituitary adenylate cyclase - activating polypeptide (PACAP) are
+localized with acetylcholine to parasympathetic nerves, where
+they may be involved in mediating prandial insulin secretion and
+the α - cell response to hypoglycemia [6] . Other neuropeptides,
+such as galanin and neuropeptide Y (NPY), are found with norepinephrine in sympathetic nerves where they may have a role in
+the sympathetic inhibition of insulin secretion, although there are
+marked inter - species differences in the expression of these neuropeptides [5] .
+Intra - i slet i nteractions
+ The anatomic organization of the islet has a profound infl uence
+on the ability of the β - cells to recognize and respond to physioTextbook of Diabetes, 4th edition. Edited by R. Holt, C. Cockram,
+A. Flyvbjerg and B. Goldstein. © 2010 Blackwell Publishing.
